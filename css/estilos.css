@@ -1,0 +1,16 @@
+
+.cinza{
+    background-color: rgb(40, 141, 145);
+}
+
+
+
+/* estilos para carousel */
+.carousel-caption h3, .carousel-caption p{
+    text-shadow: 2px 2px 4px #000;
+}
+
+.carousel-caption{
+    background-color: rgba(38, 37, 39, 0.5);
+}
+
